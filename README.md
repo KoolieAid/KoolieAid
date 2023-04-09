@@ -9,12 +9,25 @@ Just a game developer who likes to dabble on everything
 - [Game Jam Bot](https://github.com/ErikRupertGo/GJ-Bot) - A bot that helps manage teams in Game Jam discord servers
 - [FG Bot](https://github.com/ErikRupertGo/FG-Bot) - A bot for a private server. *(Discontinued)*
 
-## What I want to learn
-- C
+## What I already know
+The following is not ordered
+- Unity
+- Unreal
+- C++
+- Java
+- Javascript by itself
+- Typescript
+- Git
+- Lua 
+- C#
 - Rust
+- C with no strings attached
+
+## What I want to learn
 - Making websites
 - Making webservers
 - Making a Minecraft mod
+- Making my own game engine
 
 <!--
 **KoolieAid/KoolieAid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
