@@ -6,6 +6,7 @@ Just a game developer who likes to dabble on everything
 ## My works
 - [Richter](https://github.com/KoolieAid/Richter) - A music bot that has been abandoned lmao
 - [Helpful Librarian](https://github.com/KoolieAid/HelpfulLibrarian) - A Game about being a librarian. What else is there to say ¯\\_(ツ)_/¯
+- [Cooking Ynah: The Food Fighter](https://github.com/Sando-Studios/CookingYnah) - A hack n slash game about nutrition
 - [Game Jam Bot](https://github.com/ErikRupertGo/GJ-Bot) - A bot that helps manage teams in Game Jam discord servers
 - [FG Bot](https://github.com/ErikRupertGo/FG-Bot) - A bot for a private server. *(Discontinued)*
 
