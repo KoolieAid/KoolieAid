@@ -24,6 +24,10 @@ The following is not ordered
 - Rust
 - C with no strings attached
 
+[![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KoolieAid&layout=compact&theme=dracula&langs_count=10)](https://github.com/KoolieAid?tab=repositories)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=KoolieAid&theme=dracula)](https://github.com/KoolieAid/github-readme-stats)
+
+
 ## What I want to learn
 - Making websites
 - Making webservers
