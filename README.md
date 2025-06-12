@@ -16,13 +16,15 @@ The following is not ordered
 - Unreal
 - C++
 - Java
-- Javascript by itself
-- Typescript
 - Git
 - Lua 
 - C#
 - Rust
-- C with no strings attached
+
+### The Languages that I may have forgotten but had experience in
+- Javascript
+- Typescript
+- C
 
 [![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KoolieAid&layout=compact&theme=dracula&langs_count=10)](https://github.com/KoolieAid?tab=repositories)
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=KoolieAid&theme=dracula)](https://github.com/KoolieAid/github-readme-stats)
