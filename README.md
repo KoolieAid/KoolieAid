@@ -26,6 +26,9 @@ The following is not ordered
 - Typescript
 - C
 
+### Others
+- Chinese language, not as good as native level, but I can survive by myself in China with it
+
 [![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KoolieAid&layout=compact&theme=dracula&langs_count=10)](https://github.com/KoolieAid?tab=repositories)
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=KoolieAid&theme=dracula)](https://github.com/KoolieAid/github-readme-stats)
 
