@@ -20,6 +20,7 @@ The following is not ordered
 - Lua 
 - C#
 - Rust
+- Headless Linux server; System admin (Hosting of different kinds of servers i.e. Minecraft; Valheim; Forrest)
 
 ### The Languages that I may have forgotten but had experience in
 - Javascript
